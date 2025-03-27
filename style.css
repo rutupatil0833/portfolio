@@ -1,25 +1,2 @@
-body {
-     font-family: Arial, sans-serif;
-     padding-top: 56px;
-     background: url('https://plus.unsplash.com/premium_photo-1683309565422-77818a287060?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
- }
- 
- .hero-section {
-     background-color: #f89cb0;
-     color: white;
-     text-align: center;
-     padding: 50px 0;
- }
- 
- .card {
-     transition: transform 0.3s;
- }
- 
- .card:hover {
-     transform: scale(1.05);
- }
- 
- footer {
-     margin-top: 20px;
- }
- 
+/** styles.css **/
+.completed { text-decoration: line-through; color: gray; }
